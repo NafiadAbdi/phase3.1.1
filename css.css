@@ -1,5 +1,7 @@
 body {
 	background-color: #1087ad;
+	width: 600px;
+	margin: 0 auto;
 }
 
 .navigator {
@@ -11,4 +13,8 @@ body {
 }
 .navigator a:hover {
 	background-color: green;
+}
+.main-section {
+	display: flex;
+    color: white;
 }
