@@ -16,5 +16,20 @@ body {
 }
 .main-section {
 	display: flex;
-    color: white;
+	color: white;
+}
+.images img {
+	/* width: 300px; */
+	display: flex;
+	/* height: 100%; */
+}
+.images {
+	display: flex;
+}
+.image1,
+.image2 {
+	/* width: 50%; */
+}
+img {
+	width: 100%;
 }
