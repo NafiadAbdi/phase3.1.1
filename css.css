@@ -4,5 +4,11 @@ body {
 
 .navigator {
 	display: flex;
-    gap: 20px;
+	gap: 20px;
+}
+.navigator a {
+	text-decoration: none;
+}
+.navigator a:hover {
+	background-color: green;
 }
